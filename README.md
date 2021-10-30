@@ -11,7 +11,7 @@ game gave me the opportunity to see how different classes are used to create run
 
 Below is a video demonstration of the software that I created.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/_CUud4fV-IM)
 
 # Development Environment
 
