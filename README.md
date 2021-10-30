@@ -25,6 +25,7 @@ and the board. My program consists of some classes and enums.
 
 * [docs.oracle.com](https://docs.oracle.com/javase/8/javafx/api/index.html)
 * [javatpoint.com](https://www.javatpoint.com/javafx-tutorial)
+* [w3schools.com](https://www.w3schools.com/java/default.asp)
 
 # Future Work
 
